@@ -1,1 +1,1 @@
-Stryd 0.2.5 c19c79ccd7006b6061b10bd0b1c655ccf0d5acd2
+Stryd 0.2.6 bbc409e438d4b8264591a31eadb291de098c1a3f
